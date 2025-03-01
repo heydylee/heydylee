@@ -22,3 +22,10 @@ Here are some ideas to get you started:
   
   <br>
 </div>
+
+
+## 🌱 STUDYING
+<div align=left>  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <br>
+  </div>
