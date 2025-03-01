@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 ## 📫 Contact
 <div align=left>  
   <a href="https://velog.io/@heydy/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-  <a href="mailto:sub09065@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:sub09065@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <br>
   </div>
