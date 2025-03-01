@@ -1,4 +1,4 @@
-## 📚 STACKS
+## 📚 Stacks
 
 <!--
 **heydylee/heydylee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🌱 STUDYING
+## 🌱 Studying
 <div align=left>  
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
   <br>
   </div>
 
-## 🌱 STUDYING
+## 📫 Contact
 <div align=left>  
   <a href="https://velog.io/@heydy/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-
+  <a href="mailto:sub09065@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
   </div>
