@@ -32,3 +32,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
   </div>
+
+## 🌱 STUDYING
+<div align=left>  
+  <a href="https://velog.io/@heydy/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+
+  <br>
+  </div>
